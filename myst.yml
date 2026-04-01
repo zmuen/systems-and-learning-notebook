@@ -19,17 +19,16 @@ project:
           children:
             - file: gt-class-notes/cs6400-db/eer-mapping.md
             - file: gt-class-notes/cs6400-db/relational-algebra-and-calculus.md
-    - title: Data Engineering
-      children:
-        - file: data-engineering/spark-dynamic-allocation.ipynb
-    - title: Storage Engines
-      children:
-        - file: storage-engines/transactions-isolation.md
+    - title: System Representation
+    - title: System Dynamics
     - title: Inference
       children:
         - title: Statistical Inference
           children:
             - file: inference/hypothesis-testing.md
+    - title: Learning
+    - title: Control & Intervention
+    - title: System Properties
     - title: Contact
       children:
         - url: https://www.linkedin.com/in/muenzhang/
