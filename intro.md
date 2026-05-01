@@ -10,7 +10,7 @@ My path into systems didn’t begin in computer science, but in Architecture and
 
 Over time, my curiosity for cities never changed, but my toolkit has shifted.
 
-I became increasingly interested not just in designing physical environments, but in understanding how the behavior of cities.
+I became increasingly interested not just in designing physical environments, but in understanding how urban systems behave under stress and how their impacts are unevenly distributed across space and society.
 
 Cities, to me, are not objects, but complex adaptive systems:
 networks of infrastructure, human behavior, and environmental processes, tightly coupled and constantly changing.
