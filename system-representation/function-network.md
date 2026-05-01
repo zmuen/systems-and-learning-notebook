@@ -25,10 +25,9 @@ The structural network describes what _can_ interact; the functional network des
 In a power grid, for example, two substations may be separated by several electrical hops yet exhibit tightly correlated voltage behavior due to shared load patterns, common upstream sources, or system-wide oscillation modes. Conversely, two directly connected nodes may decouple functionally under specific dispatch configurations or protective relay actions. A functional network, derived from observed operational co-variation, captures these _effective dependencies_ — the relationships that actually govern system behavior under real conditions.
 
 This distinction matters most in three contexts:
-- First, in **resilience analysis**: cascade failures propagate through functional dependencies, not just physical links. A failure in a structurally peripheral node may trigger widespread correlated failures if that node is functionally central. 
+- First, in resilience analysis: cascade failures propagate through functional dependencies, not just physical links. A failure in a structurally peripheral node may trigger widespread correlated failures if that node is functionally central. 
 - Second, in anomaly detection and monitoring: deviations in functional network topology, like shifts in clustering, path length, or hub connectivity, can serve as early indicators of stress or degradation before physical failure occurs. 
 - Third, in system design and intervention: identifying the functional hubs and bridging edges in an infrastructure network allows planners to target hardening investments where operational impact, not just physical degree, is highest.
 
 
-## Reference:
 1. Bullmore, E., Sporns, O. Complex brain networks: graph theoretical analysis of structural and functional systems. _Nat Rev Neurosci_ **10**, 186–198 (2009). https://doi.org/10.1038/nrn2575
