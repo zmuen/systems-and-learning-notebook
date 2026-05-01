@@ -4,7 +4,7 @@
 Hello, and welcome!
 I’m Muen — a data scientist and a master’s student at Georgia Tech, specializing in Machine Learning.
 
-My path into computing didn’t begin in computer science, but in Architecture and Urban Planning. I used to design physical spaces — static structures meant to be inhabited.
+My path into systems didn’t begin in computer science, but in Architecture and Urban Planning. I used to design physical spaces.
 
 Over time, my curiosity for cities never changed, but my toolkit has shifted.
 
