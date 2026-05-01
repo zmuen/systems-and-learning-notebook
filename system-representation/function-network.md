@@ -16,6 +16,17 @@ Structural and functional network can be explored using graph theory through the
 ## Construction of functional network
 A structural network encodes the physical connections between elements: wires, pipes, axons, roads. A functional network, by contrast, is derived from observed behavior, specifically, from statistical associations in how elements co-vary or co-activate over time, regardless of whether a direct physical link exists between them.
 
+## Functional network types
+
+| Undirected               | Directed                    |
+| ------------------------ | --------------------------- |
+| Covariance / correlation | Granger causality           |
+| Mutual information       | Transfer entropy            |
+| Spectral coherence       | Convergent cross mapping    |
+| Phase sync / DTW         | Causal discovery (PC / FCI) |
+| Recurrence networks      | Structural VAR / SEM        |
+
+
 ## Structure–function relations
 In the context of brain networks, the functionality of an individual neural node is partly determined by the pattern of its interconnections with other node in the network. Nodes with similar connection patterns tend to exhibit similar functionality {cite}`bullmore2009`.
 
