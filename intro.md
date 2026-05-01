@@ -1,4 +1,6 @@
-# Muen's notebook
+# Muen's System and Learning Notebook
+> [!NOTE]
+> See an error? Submit an issue [here](https://github.com/zmuen/systems-and-learning-notebook/issues).
 
 ## About this notes repo and me
 Hello, and welcome!

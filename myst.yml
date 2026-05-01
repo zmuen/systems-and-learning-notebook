@@ -2,7 +2,7 @@
 version: 1
 project:
   id: f5b36bb5-3035-4c80-8410-9fbdf36f441c
-  title: Complex Systems & Learning Notebook
+  title: Systems & Learning Notebook
   license: CC-BY-4.0
   downloads: []
   # description:
@@ -39,6 +39,8 @@ project:
       children:
         - url: https://www.linkedin.com/in/muenzhang/
           title: LinkedIn
+        - url: https://zmuen.github.io/
+          title: Personal Website
 
 site:
   template: book-theme

@@ -11,32 +11,26 @@ This repository is organized as a method-first learning and research system, rat
 
 The notes are grouped into three interconnected layers:
 
-System Understanding
-Foundations for describing and analyzing systems
-(e.g., statistical methods, network science)
-System Prediction
-Methods for modeling and forecasting system behavior
-(e.g., statistical learning, machine learning)
-System Intervention
-Approaches for influencing or controlling system dynamics
-(e.g., optimization, control theory)
+- System Understanding: Foundations for describing and analyzing systems (e.g., System Representation, System Properties, System Dynamics)
+- System Prediction: Methods for modeling and forecasting system behavior (e.g., Inference, Learning)
+- System Intervention: Approaches for influencing or controlling system dynamics (e.g., Control & Intervention)
 
 These layers reflect a core progression:
 
 Understand → Predict → Intervene
 
 2. How to Navigate
-If you are interested in concepts, start from System Understanding
-If you are interested in modeling and ML, go to System Prediction
-If you are interested in decision-making and control, explore System Intervention
+- If you are interested in concepts, start from System Understanding
+- If you are interested in modeling and ML, go to System Prediction
+- If you are interested in decision-making and control, explore System Intervention
 
 Notes are intentionally modular, but many topics are connected across sections.
 
 3. What You Will Find Here
-Conceptual notes on complex systems and urban systems
-Method-focused breakdowns (statistics, ML, networks)
-Small experiments and exploratory analyses
-Occasional applied case studies (e.g., energy systems)
+- Conceptual notes on complex systems and urban systems
+- Method-focused breakdowns (statistics, ML, networks)
+- Small experiments and exploratory analyses
+- Occasional applied case studies (e.g., energy systems)
 
 The emphasis is on building intuition and transferable methods, rather than covering topics exhaustively.
 
