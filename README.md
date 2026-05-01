@@ -30,7 +30,7 @@ Notes are intentionally modular, but many topics are connected across sections.
 - Conceptual notes on complex systems and urban systems
 - Method-focused breakdowns (statistics, ML, networks)
 - Small experiments and exploratory analyses
-- Occasional applied case studies (e.g., energy systems)
+- Occasional applied case studies
 
 The emphasis is on building intuition and transferable methods, rather than covering topics exhaustively.
 
@@ -47,6 +47,5 @@ This repo is primarily built for:
 
 - Structuring long-term research thinking
 - Connecting methods across domains
-- Supporting ongoing projects in urban and infrastructure systems
 
 It may also be useful for others exploring similar intersections of complex systems, machine learning, and real-world infrastructure.
