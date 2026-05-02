@@ -1,6 +1,5 @@
 # Muen's System and Learning Notebook
-> [!NOTE]
-> See an error? Submit an issue [here](https://github.com/zmuen/systems-and-learning-notebook/issues).
+>“I will continue for now. Whether I solve all the problems, only half of them, or return in failure in the end…” (Han Kang, _We Do Not Part_)
 
 ## About this notes repo and me
 Hello, and welcome!
@@ -80,3 +79,6 @@ This repo is primarily built for:
 - Connecting methods across domains
 
 It may also be useful for others exploring similar intersections of complex systems, machine learning, and real-world infrastructure.
+
+> [!NOTE]
+> See an error? Submit an issue [here](https://github.com/zmuen/systems-and-learning-notebook/issues).

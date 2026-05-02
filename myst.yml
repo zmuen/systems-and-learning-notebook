@@ -21,11 +21,18 @@ project:
       children:
         - file: system-dynamics/system-stress.md
     - title: Resilience & Failure # cascade failure, robustness, vulnerability
-    - title: Inference # what you can learn from observations
+    - title: Inference
       children:
-        - title: Statistical Inference
+        - title: Statistical Inference       # association, hypothesis testing (already there)
           children:
-            - file: inference/hypothesis-testing.md
+              - file: inference/hypothesis-testing.md
+        - title: Limits of Predictive Inference # correlation ≠ causation, Goodhart's law, shortcut learning
+        - title: Distribution Shift          # why models break — covariate shift, concept drift, non-stationarity
+        - title: Uncertainty Quantification  # knowing what the model doesn't know
+        - title: Causal Inference            # interventional vs. observational reasoning
+          children:
+            - title: Granger Causality       # temporal precedence, relevant for time series
+            - title: Structural Causal Models # do-calculus, DAGs, counterfactuals
     - title: Learning # data-driven / ML approaches
     - title: Control & Intervention # how you act on the system
     # - title: GaTech Class Notes
