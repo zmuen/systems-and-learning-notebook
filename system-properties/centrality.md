@@ -1,4 +1,4 @@
-# Centrally
+# Centrality
 
 ## Centrality measures
 ### Degree

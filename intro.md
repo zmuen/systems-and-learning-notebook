@@ -35,8 +35,8 @@ Diese Notizen dokumentieren meinen Übergang von statischer Raumgestaltung hin z
 
 这个笔记库记录的是我从“设计空间”转向“理解系统”的过程，内容主要围绕复杂系统、统计学习、系统建模以及它们在城市系统中的应用。
 
-## How to Use this Repo
-This repository is organized as a method-first learning and research system, rather than a collection of isolated topics.
+## How to Use this Notebook
+This notebook is organized as a method-first learning and research system, rather than a collection of isolated topics.
 
 1. Structure Overview
 
