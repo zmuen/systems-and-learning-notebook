@@ -11,15 +11,19 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: intro.md
-    - title: System Representation # how you formalize the system
-      children:
-        - file: system-representation/function-network.md
     - title: System Properties # what the system looks like (topology, hubs, modularity)
       children:
         - file: system-properties/centrality.md
+        - file: system-properties/walks-paths-cycles.md
+        - file: system-properties/connectivity.md
+    - title: System Representation # how you formalize the system
+      children:
+        - file: system-representation/graph-representation.md
+        - file: system-representation/functional-network.md
     - title: System Dynamics # how it behaves and evolves
       children:
         - file: system-dynamics/system-stress.md
+        - file: system-dynamics/random-walks.md
     - title: Resilience & Failure # cascade failure, robustness, vulnerability
     - title: Inference
       children:
@@ -35,13 +39,8 @@ project:
             - title: Structural Causal Models # do-calculus, DAGs, counterfactuals
     - title: Learning # data-driven / ML approaches
     - title: Control & Intervention # how you act on the system
-    # - title: GaTech Class Notes
-    #   children:
-    #     - file: about.md
-    #     - title: CS6400 DB Sys Concepts& Design
-    #       children:
-    #         - file: gt-class-notes/cs6400-db/eer-mapping.md
-    #         - file: gt-class-notes/cs6400-db/relational-algebra-and-calculus.md
+      children:
+        - file: control-intervention/flow-and-cuts.md
     - title: Contact
       children:
         - url: https://www.linkedin.com/in/muenzhang/

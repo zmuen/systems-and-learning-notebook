@@ -1,7 +1,7 @@
 # Muen's System and Learning Notebook
 >“I will continue for now. Whether I solve all the problems, only half of them, or return in failure in the end…” (Han Kang, _We Do Not Part_)
 
-## About this notes repo and me
+## About this notebook and me
 Hello, and welcome!
 I’m Muen — a data scientist and a master’s student at Georgia Tech, specializing in Machine Learning.
 
@@ -34,7 +34,7 @@ Diese Notizen dokumentieren meinen Übergang von statischer Raumgestaltung hin z
 
 这个笔记库记录的是我从“设计空间”转向“理解系统”的过程，内容主要围绕复杂系统、统计学习、系统建模以及它们在城市系统中的应用。
 
-## How to Use this Notebook
+## How to use this notebook
 This notebook is organized as a method-first learning and research system, rather than a collection of isolated topics.
 
 1. Structure Overview
