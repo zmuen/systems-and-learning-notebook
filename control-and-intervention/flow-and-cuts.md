@@ -18,3 +18,8 @@ The max-flow problem asks for the greatest amount of flow that can originate at 
 The classical solution method is the Ford-Fulkerson algorithm.
 
 Max-flow is useful when we want to understand not just whether a system is connected, but how much material, information, traffic, or energy it can transmit under constraints.
+
+## Max-flow = min-cut
+The sum of the weights of the min-cut is equal to the max-flow in that network.
+
+## How this is related to infrastructure systems
