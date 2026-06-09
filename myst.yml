@@ -40,7 +40,21 @@ project:
             - title: Structural Causal Models # do-calculus, DAGs, counterfactuals
     - title: Learning # data-driven / ML approaches
       children:
-        - Representation Learning
+        - title: Foundations
+          children:
+            - file: learning/foundations/model-types.md
+        - title: Representation Learning
+          children:
+            - file: learning/representation-learning/representation-learning.md
+        - title: Sequence & Time-Series Learning
+          children:
+            - file: learning/sequence-time-series/time-series-learning.md
+        - title: Graph Learning
+          children:
+            - file: learning/graph-learning/graph-learning.md
+        - title: Decision Making & Reinforcement Learning
+          children:
+            - file: learning/decision-making-rl/reinforcement-learning.md
     - title: Control & Intervention # how you act on the system
       children:
         - file: control-and-intervention/flow-and-cuts.md
