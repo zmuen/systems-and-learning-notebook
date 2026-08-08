@@ -58,7 +58,7 @@ the average neighbor degree is larger than the average node degree whenever the 
 
 The intuition is that high-degree nodes are more likely to be encountered when we sample through edges, because they appear many times in the edge list.
 
-## Erdős-Rényi graph $G(n,p)$
+## Erdős-Rényi graph
 In the Erdős-Rényi random graph model $G(n,p)$, each possible edge between a pair of nodes appears independently with probability $p$.
 
 For a node in $G(n,p)$, the degree follows a binomial distribution:

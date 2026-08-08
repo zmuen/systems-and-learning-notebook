@@ -1,3 +1,7 @@
+---
+bibliography: references.bib
+---
+
 # Flow and Cuts
 
 ## Min-cut problem

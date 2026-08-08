@@ -1,5 +1,13 @@
 # Random walks
 
+## Motivation and important concepts
+The primary motivation for studying random walks is to model systems driven by cumulative, independent, and unpredictable changes. To explore more about this topic, it's helpful to get familiarized with the following concepts:
+
+- Markov chain → Defines the evolution rule.
+- Transition matrix → Defines one-step transition probabilities.
+- Stationary distribution → Describes long-term behavior.
+- Generating function → Encodes probability distributions over random times.
+
 ## Transition matrix
 For an undirected graph, let the degree of node $i$ be
 
@@ -48,3 +56,5 @@ $$
 $$
 
 Random walks are a simple but powerful way to model how load, information, exposure, or influence propagates through a network over time.
+
+## Generating functions

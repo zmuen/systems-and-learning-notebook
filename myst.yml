@@ -13,10 +13,12 @@ project:
     - file: intro.md
     - title: System Properties # what the system looks like (topology, hubs, modularity)
       children:
-        - file: system-properties/centrality.md
         - file: system-properties/network-structure.md
         - file: system-properties/walks-paths-cycles.md
+        - file: system-properties/distance.md
+        - file: system-properties/centrality.md
         - file: system-properties/connectivity.md
+        - file: system-properties/clustering.md
     - title: System Representation # how you formalize the system
       children:
         - file: system-representation/graph-representation.md
@@ -31,9 +33,13 @@ project:
         - title: Statistical Inference       # association, hypothesis testing (already there)
           children:
               - file: inference/hypothesis-testing.md
-        - title: Limits of Predictive Inference # correlation ≠ causation, Goodhart's law, shortcut learning
-        - title: Distribution Shift          # why models break — covariate shift, concept drift, non-stationarity
-        - title: Uncertainty Quantification  # knowing what the model doesn't know
+        - title: Structural Inference       # association, hypothesis testing (already there)
+          children:
+              - file: inference/network-inference.md
+        - title: Predictive Inference # correlation ≠ causation, Goodhart's law, shortcut learning
+          children:
+            - title: Distribution Shift          # why models break — covariate shift, concept drift, non-stationarity
+            - title: Uncertainty Quantification  # knowing what the model doesn't know
         - title: Causal Inference            # interventional vs. observational reasoning
           children:
             - title: Granger Causality       # temporal precedence, relevant for time series
