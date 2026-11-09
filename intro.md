@@ -11,11 +11,11 @@ Over time, my curiosity for cities never changed, but my toolkit has shifted.
 
 I became increasingly interested not just in designing physical environments, but in understanding the behavior of cities.
 
-Cities, to me, are not objects, but complex adaptive systems: networks of infrastructure, human behavior, and environmental processes, tightly coupled and constantly changing.
+Cities, to me, are not just objects, but also complex systems: networks of infrastructure, human behavior, and environmental processes, tightly coupled and constantly changing.
 
-Working in energy-tech exposed me to real-world data, uncertainty, and large-scale decision systems. Meanwhile, my studies in computer science pulled me toward a deeper question: How can we use data-driven methods to understand, model, and predict the behavior of complex physical systems under uncertainty?
+Working in energy-tech exposed me to real-world data, uncertainty, and large-scale decision systems. Meanwhile, my studies in computer science pulled me toward a deeper question: How can we use data-driven methods to understand, model, and predict the behavior of complex physical systems under uncertainty and partial observability?
 
-These two threads converge into a broader question that guides this repository: How do large-scale urban and infrastructure systems adapt, reorganize, and sometimes fail under changing conditions?
+These two threads converge into a broader question that guides this repository: How do large-scale infrastructure systems adapt, reorganize, and sometimes fail under changing conditions, and how can we detect these signals from sparse, noisy, and heterogeneous observations?
 
 This study notes repo is my attempt to answer that question slowly, imperfectly, but with curiosity. Think of this as a personal, evolving research notebook — incomplete, but structured by curiosity.
 
@@ -31,8 +31,9 @@ Diese Notizen dokumentieren meinen Übergang von statischer Raumgestaltung hin z
 
 我最初的训练来自建筑学，但现在更关注城市作为复杂系统的行为：
 它们如何在压力下变化、如何通过网络结构传播影响、以及如何在不确定性中做出“响应”。
+我们又该如何从不完整的观测中捕捉这些信息。
 
-这个笔记库记录的是我从“设计空间”转向“理解系统”的过程，内容主要围绕复杂系统、统计学习、系统建模以及它们在城市系统中的应用。
+这个笔记库记录的是我从“设计空间”转向“理解系统”的过程，内容主要围绕复杂系统、机器学习、系统建模以及它们在大型网状系统中的应用。
 
 ## How to use this notebook
 This notebook is organized as a method-first learning and research system, rather than a collection of isolated topics.
